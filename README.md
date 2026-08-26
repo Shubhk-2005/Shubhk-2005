@@ -59,23 +59,6 @@ Currently, I'm diving deep into **production-grade ML pipelines** and **cloud-na
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</div>
-
----
-
-## 🔥 Contribution Heatmap
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🎯 YuvaSetu – AI Internship Recommendation Platform
@@ -115,17 +98,29 @@ Developed a unified portal for students, alumni, and administrators featuring **
 
 | 🏆 Award | 📜 Certification |
 |----------|------------------|
-| Winner – Brainwave 2.0 Hackathon (Best Use of MongoDB) | AI Foundations Associate – Oracle |
-| Finalist – MANTHAN 1.0 Hackathon (NIT Bhopal) | Neo4j Certified Professional – Data Modeling |
-| Certified Taekwondo Trainer – Black Belt (Kukkiwon, South Korea) | |
+| 🥇 Winner – Brainwave 2.0 Hackathon (Best Use of MongoDB) | 🎓 AI Foundations Associate – Oracle |
+| 🏅 Finalist – MANTHAN 1.0 Hackathon (NIT Bhopal) | 🔷 Neo4j Certified Professional – Data Modeling |
+| 🥋 Certified Taekwondo Trainer – Black Belt (Kukkiwon, South Korea) | |
 
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
 </div>
 
 ---
 
 ## 🌐 Let's Connect
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -145,7 +140,7 @@ Developed a unified portal for students, alumni, and administrators featuring **
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
@@ -158,8 +153,9 @@ Developed a unified portal for students, alumni, and administrators featuring **
 
 ---
 
-## 🎯 Visitor Count
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00D4FF&style=flat-square&label=Profile+Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
 </div>
